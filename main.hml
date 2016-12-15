@@ -1,1 +1,23 @@
 
+<html>
+  <style>
+    body{
+      background-color: blue;
+      color: black;
+      text-align: center;
+    }
+  </style>
+  
+  <title>
+    RJNow Blog
+  </title>
+  
+  <head>
+    <p>This is just a tryout <p>
+  </head>
+  
+  <body>
+    <h1> This is just a try out </h1<
+  </body>
+  
+</html>
