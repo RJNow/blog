@@ -1,12 +1,5 @@
 
 <html>
-  <style>
-    body{
-      background-color: blue;
-      color: black;
-      text-align: center;
-    }
-  </style>
   
   <title>
     RJNow Blog
@@ -17,7 +10,15 @@
   </head>
   
   <body>
-    <h1> This is just a try out </h1<
+    <h1> This is just a try out </h1>
   </body>
   
+  <style>
+    body{
+      background-color: blue;
+      color: black;
+      text-align: center;
+    }
+  </style>
+
 </html>
